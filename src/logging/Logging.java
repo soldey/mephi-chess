@@ -1,4 +1,4 @@
-package console;
+package logging;
 
 import entities.Tile;
 

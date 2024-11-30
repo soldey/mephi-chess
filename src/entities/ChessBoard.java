@@ -1,6 +1,6 @@
 package entities;
 
-import console.Logging;
+import logging.Logging;
 import entities.chessPieces.*;
 
 import static entities.ChessPiece.*;
